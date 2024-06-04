@@ -1,0 +1,19 @@
+{
+  "name": "ai-tutor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "GROQ_API_KEY=your_actual_api_key_here node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "readline-sync": "^1.4.10"
+  }
+}

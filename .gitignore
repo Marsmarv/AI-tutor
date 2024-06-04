@@ -1,0 +1,20 @@
+# Node.js
+node/node_modules/
+
+# Python
+python/venv/
+
+# Environment variables
+node/.env
+python/.env
+
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
